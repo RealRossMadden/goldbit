@@ -6,7 +6,12 @@ I clearly need help building the very first gold-backed token as an example for 
 Here are pieces need work set it up:
 
 GOLD HOLDERS
-In order to have a decentralized gold-backed cryptocurrency there must first be people with gold. What if you could be rewarded for holding gold in your safe? Would would consider buying some and registering it with Goldbit in exchange for some Goldbit Coin (GBC)? 
+
+In order to have a decentralized gold-backed cryptocurrency there must first be people with gold. 
+Reward Gold Holders for proving they are holding gold in their safe.
+
+Once you have proof of ownership of real assets, you have something you can lend or borrow against. You have something you can invest.
+
 
 There are many all over the place, hiding their gold in separate locations for safe keeping. But gaining nothing from owning the asset, which banks have managed to do by leveraging the value of their holdings to raise capital. 
 
